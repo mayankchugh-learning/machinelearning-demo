@@ -1,0 +1,4 @@
+scikit-learn==1.2.2
+gradio
+joblib
+huggingface_hub
